@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\dataaccess\\concrete\\entityframework\\contexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\contexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\iproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\dataaccess\\concrete\\entityframework\\contexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\contexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efproductdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\abstract\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -21,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\dataaccess\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\ientityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40024DE6-1A3F-408F-B5EE-9C58AB75F7D9}|Entities\\Entities.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\entities\\concrete\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,19 +75,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Concrete\\ProductManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Concrete\\ProductManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\ProductManager.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T09:01:56.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Abstract\\IProductService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IProductService.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Abstract\\IProductService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T08:52:01.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T07:38:34.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EfProductDal.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfProductDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T07:35:48.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "NorthwindContext.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
               "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
               "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
               "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-02T20:14:16.511Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "DataAccess.csproj",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\DataAccess\\DataAccess.csproj",
               "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
@@ -85,25 +153,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Business.csproj",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Business.csproj",
-              "RelativeDocumentMoniker": "Business\\Business.csproj",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Business.csproj",
-              "RelativeToolTip": "Business\\Business.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-01T16:33:02.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "IEntity.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Entities\\IEntity.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\IEntity.cs",
               "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Entities\\IEntity.cs",
               "RelativeToolTip": "Core\\Entities\\IEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-01T10:40:18.215Z",
               "EditorCaption": ""
@@ -123,20 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IEntityRepository.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\DataAccess\\IEntityRepository.cs",
-              "RelativeDocumentMoniker": "Core\\DataAccess\\IEntityRepository.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\DataAccess\\IEntityRepository.cs",
-              "RelativeToolTip": "Core\\DataAccess\\IEntityRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T10:54:00.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Core.csproj",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Core.csproj",
               "RelativeDocumentMoniker": "Core\\Core.csproj",
@@ -149,7 +191,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-01T16:33:02.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\DataAccess\\IEntityRepository.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\IEntityRepository.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\DataAccess\\IEntityRepository.cs",
+              "RelativeToolTip": "Core\\DataAccess\\IEntityRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T10:54:00.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Entities\\Concrete\\Product.cs",
               "RelativeDocumentMoniker": "Entities\\Concrete\\Product.cs",
@@ -162,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Entities.csproj",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Entities\\Entities.csproj",
               "RelativeDocumentMoniker": "Entities\\Entities.csproj",
@@ -175,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Class1.cs",
               "RelativeDocumentMoniker": "Core\\Class1.cs",
@@ -188,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Class1.cs",
               "RelativeDocumentMoniker": "Business\\Class1.cs",
