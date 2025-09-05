@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{55181855-F6F9-42E4-80CB-7CFBA0C6D561}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55181855-F6F9-42E4-80CB-7CFBA0C6D561}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55181855-F6F9-42E4-80CB-7CFBA0C6D561}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55181855-F6F9-42E4-80CB-7CFBA0C6D561}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55181855-F6F9-42E4-80CB-7CFBA0C6D561}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55181855-F6F9-42E4-80CB-7CFBA0C6D561}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55181855-F6F9-42E4-80CB-7CFBA0C6D561}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55181855-F6F9-42E4-80CB-7CFBA0C6D561}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\contants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\contants\\messages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\utilities\\results\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +46,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Messages.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Contants\\Messages.cs",
-              "RelativeDocumentMoniker": "Business\\Contants\\Messages.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Contants\\Messages.cs",
-              "RelativeToolTip": "Business\\Contants\\Messages.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Startup.cs",
+              "RelativeToolTip": "WebAPI\\Startup.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T12:38:14.205Z",
+              "WhenOpened": "2025-09-05T17:43:20.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T17:19:17.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T13:10:58.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AutofacBusinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeDocumentMoniker": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeToolTip": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T16:58:10.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebAPI",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI\\WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T13:08:11.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Business",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T13:16:26.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ProductManager.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Concrete\\ProductManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
@@ -52,7 +141,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
+              "Title": "Messages.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Contants\\Messages.cs",
+              "RelativeDocumentMoniker": "Business\\Contants\\Messages.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Contants\\Messages.cs",
+              "RelativeToolTip": "Business\\Contants\\Messages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:38:14.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "SuccessResult.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Results\\SuccessResult.cs",
               "RelativeDocumentMoniker": "Core\\Utilities\\Results\\SuccessResult.cs",
