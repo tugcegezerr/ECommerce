@@ -335,6 +335,9 @@
             "projectReferences": {
               "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Business.csproj": {
                 "projectPath": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Business.csproj"
+              },
+              "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Entities\\Entities.csproj"
               }
             }
           }
@@ -355,9 +358,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
             "Autofac.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[10.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
             }
           },
           "imports": [
