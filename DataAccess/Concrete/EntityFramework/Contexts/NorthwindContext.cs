@@ -1,4 +1,5 @@
-﻿using Entities.Concrete;
+﻿using Core.Entities.Concrete;
+using Entities.Concrete;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -15,5 +16,9 @@ namespace DataAccess.Concrete.EntityFramework.Contexts
             optionsBuilder.UseSqlServer(connectionString: @"Server=localhost;Database=Northwind;User Id=sa;Password=Password1;TrustServerCertificate=True");
         }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Category>Categories { get; set; }
+        public DbSet<OperationClaim> OperationClaims { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<UserOperationClaim> UserOperationClaims { get; set; }
     }
 }
