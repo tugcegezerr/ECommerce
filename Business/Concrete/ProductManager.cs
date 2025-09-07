@@ -8,7 +8,7 @@ using Entities.Concrete;
 using DataAccess.Abstract;
 using DataAccess.Concrete.EntityFramework;
 using Core.Utilities.Results;
-using Business.Contants;
+using Business.Constants;
 
 namespace Business.Concrete
 {

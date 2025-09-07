@@ -98,3 +98,6 @@ C:\Users\MyPc\source\repos\NorthwindBackend\WebAPI\obj\Debug\net8.0\WebAPI.pdb
 C:\Users\MyPc\source\repos\NorthwindBackend\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\MyPc\source\repos\NorthwindBackend\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
 C:\Users\MyPc\source\repos\NorthwindBackend\WebAPI\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\MyPc\source\repos\NorthwindBackend\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\MyPc\source\repos\NorthwindBackend\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MyPc\source\repos\NorthwindBackend\WebAPI\bin\Debug\net8.0\Remotion.Linq.dll
