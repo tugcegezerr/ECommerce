@@ -101,3 +101,4 @@ C:\Users\MyPc\source\repos\NorthwindBackend\WebAPI\bin\Debug\net8.0\Autofac.Exte
 C:\Users\MyPc\source\repos\NorthwindBackend\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
 C:\Users\MyPc\source\repos\NorthwindBackend\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\MyPc\source\repos\NorthwindBackend\WebAPI\bin\Debug\net8.0\Remotion.Linq.dll
+C:\Users\MyPc\source\repos\NorthwindBackend\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
