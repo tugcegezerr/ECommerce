@@ -34,8 +34,8 @@
   {
     "ContainingType": "WebAPI.Controllers.CategoriesController",
     "Method": "GetList",
-    "RelativePath": "api/Categories",
-    "HttpMethod": "",
+    "RelativePath": "api/Categories/getlist",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],

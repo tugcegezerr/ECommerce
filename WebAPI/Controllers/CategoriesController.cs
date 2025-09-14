@@ -12,11 +12,14 @@ namespace WebAPI.Controllers
     [ApiController]
     public class CategoriesController : ControllerBase
     {
-        private ICategoryService _categoryService;
+        private readonly ICategoryService _categoryService;
         public CategoriesController(ICategoryService categoryService)
         {
             _categoryService = categoryService;
         }
+
+        // ✅ Buraya HttpGet attribute eklendi
+        [HttpGet("getlist")]
         public IActionResult GetList()
         {
             var result = _categoryService.GetList();
