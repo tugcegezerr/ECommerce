@@ -18,6 +18,7 @@ namespace WebAPI.Controllers
         [HttpPost(template:"login")]
         public ActionResult Login(UserForLoginDto userForLoginDto)
         {
+
             var userToLogin = _authService.Login(userForLoginDto);
             if (!userToLogin.Success)
             {
@@ -39,7 +40,7 @@ namespace WebAPI.Controllers
                 return BadRequest(userExists.Message);
             }
             var registerResult = _authService.Register(userForRegisterDto, userForRegisterDto.Password);
-            var result = _authService.CreateAccessToken(registerResult.Data);
+              var result = _authService.CreateAccessToken(registerResult.Data);
             if (result.Success)
             {
                 return Ok(result.Data);

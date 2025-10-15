@@ -3,52 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\utilities\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\utilities\\security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40024DE6-1A3F-408F-B5EE-9C58AB75F7D9}|Entities\\Entities.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40024DE6-1A3F-408F-B5EE-9C58AB75F7D9}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\concrete\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\concrete\\authmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\dataaccess\\concrete\\entityframework\\contexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\contexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\utilities\\security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\hashing\\hashinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\utilities\\results\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40024DE6-1A3F-408F-B5EE-9C58AB75F7D9}|Entities\\Entities.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\entities\\dtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40024DE6-1A3F-408F-B5EE-9C58AB75F7D9}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\extensions\\claimextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,8 +67,32 @@
       "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\encryption\\signingcredentialshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\utilities\\security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\dataaccess\\concrete\\entityframework\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\utilities\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\tokenoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\abstract\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\entities\\concrete\\useroperationclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,24 +107,8 @@
       "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\jwt\\accesstoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40024DE6-1A3F-408F-B5EE-9C58AB75F7D9}|Entities\\Entities.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\entities\\dtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40024DE6-1A3F-408F-B5EE-9C58AB75F7D9}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40024DE6-1A3F-408F-B5EE-9C58AB75F7D9}|Entities\\Entities.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40024DE6-1A3F-408F-B5EE-9C58AB75F7D9}|Entities\\Entities.csproj|solutionrelative:entities\\dtos\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\concrete\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\abstract\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\dataaccess\\concrete\\entityframework\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\efuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\dataaccess\\abstract\\iuserdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -119,16 +135,8 @@
       "RelativeMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|solutionrelative:business\\concrete\\categorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\dataaccess\\concrete\\entityframework\\contexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\concrete\\entityframework\\contexts\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\icategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\utilities\\security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\utilities\\security\\encryption\\securitykeyhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -137,10 +145,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\entities\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\entities\\idto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\dataaccess\\entityframework\\efentityrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6701BD6C-0A54-43C1-A239-CEF59A743F0B}|Business\\Business.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\business\\concrete\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -153,10 +157,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AC1F6F5A-66D6-46AE-93D8-0AE60066B090}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\core\\utilities\\results\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA6FB73D-E676-4DEA-AEA0-6A7549E6949A}|Core\\Core.csproj|solutionrelative:core\\utilities\\results\\successresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{80511B8A-50B9-4B2D-AA4A-8E6D533615B2}|DataAccess\\DataAccess.csproj|c:\\users\\mypc\\source\\repos\\northwindbackend\\dataaccess\\concrete\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -174,130 +174,96 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 17,
               "Title": "EfUserDal.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
               "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
               "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
               "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\EfUserDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADgvxwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-06T19:34:39.89Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Startup.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Startup.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Startup.cs",
-              "RelativeToolTip": "WebAPI\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAArAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Concrete\\UserManager.cs",
+              "RelativeDocumentMoniker": "Business\\Concrete\\UserManager.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Concrete\\UserManager.cs",
+              "RelativeToolTip": "Business\\Concrete\\UserManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAewBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T10:02:21.119Z"
+              "WhenOpened": "2025-09-06T20:39:18.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T13:20:01.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T09:38:38.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "WebAPI\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "WebAPI\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-06T17:23:16.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\appsettings.json",
-              "RelativeToolTip": "WebAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-07T21:52:10.409Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T09:38:50.205Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "AuthManager.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Concrete\\AuthManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\AuthManager.cs",
               "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Concrete\\AuthManager.cs",
               "RelativeToolTip": "Business\\Concrete\\AuthManager.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwEkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswD0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-07T11:41:03.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HashingHelper.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "EfEntityRepositoryBase.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "RelativeToolTip": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T11:55:48.492Z"
+              "WhenOpened": "2025-09-06T11:42:59.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Abstract\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Business\\Abstract\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Abstract\\IAuthService.cs",
-              "RelativeToolTip": "Business\\Abstract\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T11:35:24.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Business.csproj",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Business.csproj",
-              "RelativeDocumentMoniker": "Business\\Business.csproj",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Business.csproj",
-              "RelativeToolTip": "Business\\Business.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-05T13:16:26.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TokenOptions.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T08:12:52.641Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "WebAPI.csproj",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\WebAPI.csproj",
               "RelativeDocumentMoniker": "WebAPI\\WebAPI.csproj",
@@ -309,67 +275,187 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwDQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UserForLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Entities\\Dtos\\UserForLoginDto.cs",
+              "RelativeDocumentMoniker": "Entities\\Dtos\\UserForLoginDto.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Entities\\Dtos\\UserForLoginDto.cs",
+              "RelativeToolTip": "Entities\\Dtos\\UserForLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T13:20:01.968Z"
+              "WhenOpened": "2025-09-06T21:00:12.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:16:01.401Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "WebAPI\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAswFIAAAAAAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\appsettings.json",
+              "RelativeToolTip": "WebAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-07T21:52:10.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NorthwindContext.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
+              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T09:38:38.97Z"
+              "WhenOpened": "2025-09-06T10:14:34.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HashingHelper.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Hashing\\HashingHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:55:48.492Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ClaimExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Extensions\\ClaimExtensions.cs",
-              "RelativeDocumentMoniker": "Core\\Extensions\\ClaimExtensions.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Extensions\\ClaimExtensions.cs",
-              "RelativeToolTip": "Core\\Extensions\\ClaimExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Title": "SuccessResult.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Results\\SuccessResult.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\SuccessResult.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Results\\SuccessResult.cs",
+              "RelativeToolTip": "Core\\Utilities\\Results\\SuccessResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T10:59:31.695Z"
+              "WhenOpened": "2025-09-04T10:47:02.978Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "UserForRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Entities\\Dtos\\UserForRegisterDto.cs",
+              "RelativeDocumentMoniker": "Entities\\Dtos\\UserForRegisterDto.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Entities\\Dtos\\UserForRegisterDto.cs",
+              "RelativeToolTip": "Entities\\Dtos\\UserForRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T21:04:47.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SecurityKeyHelper.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:46:34.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "SigningCredentialsHelper.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
               "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
               "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
               "RelativeToolTip": "Core\\Utilities\\Security\\Encryption\\SigningCredentialsHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-07T09:54:50.565Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "JwtHelper.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\Jwt\\JwtHelper.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAwwEEAAAAAAAAAAAAAAA==",
+              "Title": "ClaimExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Extensions\\ClaimExtensions.cs",
+              "RelativeDocumentMoniker": "Core\\Extensions\\ClaimExtensions.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Extensions\\ClaimExtensions.cs",
+              "RelativeToolTip": "Core\\Extensions\\ClaimExtensions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADgvxcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T08:16:01.401Z"
+              "WhenOpened": "2025-09-07T10:59:31.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
+              "Title": "Business.csproj",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Business.csproj",
+              "RelativeDocumentMoniker": "Business\\Business.csproj",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Business.csproj",
+              "RelativeToolTip": "Business\\Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-05T13:16:26.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Abstract\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Business\\Abstract\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Abstract\\IAuthService.cs",
+              "RelativeToolTip": "Business\\Abstract\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T11:35:24.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Program.cs",
+              "RelativeToolTip": "WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T09:38:50.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Startup.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Startup.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Startup.cs",
+              "RelativeToolTip": "WebAPI\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T10:02:21.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TokenOptions.cs",
+              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
+              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
+              "RelativeToolTip": "Core\\Utilities\\Security\\Jwt\\TokenOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:12:52.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "UserOperationClaim.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Entities\\Concrete\\UserOperationClaim.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\UserOperationClaim.cs",
@@ -381,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "ITokenHelper.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\ITokenHelper.cs",
               "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Jwt\\ITokenHelper.cs",
@@ -393,7 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "AccessToken.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Jwt\\AccessToken.cs",
               "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Jwt\\AccessToken.cs",
@@ -405,43 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "UserForRegisterDto.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Entities\\Dtos\\UserForRegisterDto.cs",
-              "RelativeDocumentMoniker": "Entities\\Dtos\\UserForRegisterDto.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Entities\\Dtos\\UserForRegisterDto.cs",
-              "RelativeToolTip": "Entities\\Dtos\\UserForRegisterDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T21:04:47.265Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserForLoginDto.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Entities\\Dtos\\UserForLoginDto.cs",
-              "RelativeDocumentMoniker": "Entities\\Dtos\\UserForLoginDto.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Entities\\Dtos\\UserForLoginDto.cs",
-              "RelativeToolTip": "Entities\\Dtos\\UserForLoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T21:00:12.596Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UserManager.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Concrete\\UserManager.cs",
-              "RelativeDocumentMoniker": "Business\\Concrete\\UserManager.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Concrete\\UserManager.cs",
-              "RelativeToolTip": "Business\\Concrete\\UserManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T20:39:18.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Abstract\\IUserService.cs",
               "RelativeDocumentMoniker": "Business\\Abstract\\IUserService.cs",
@@ -453,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "IUserDal.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\DataAccess\\Abstract\\IUserDal.cs",
               "RelativeDocumentMoniker": "DataAccess\\Abstract\\IUserDal.cs",
@@ -465,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "OperationClaim.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Entities\\Concrete\\OperationClaim.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\OperationClaim.cs",
@@ -477,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Entities\\Concrete\\User.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\Concrete\\User.cs",
@@ -489,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "AutofacBusinessModule.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
               "RelativeDocumentMoniker": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
@@ -501,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "Messages.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Constants\\Messages.cs",
               "RelativeDocumentMoniker": "Business\\Constants\\Messages.cs",
@@ -513,7 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "CategoryManager.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Concrete\\CategoryManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\CategoryManager.cs",
@@ -525,19 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "NorthwindContext.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
-              "RelativeToolTip": "DataAccess\\Concrete\\EntityFramework\\Contexts\\NorthwindContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T10:14:34.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "ICategoryDal.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\DataAccess\\Abstract\\ICategoryDal.cs",
               "RelativeDocumentMoniker": "DataAccess\\Abstract\\ICategoryDal.cs",
@@ -549,19 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "SecurityKeyHelper.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
-              "RelativeToolTip": "Core\\Utilities\\Security\\Encryption\\SecurityKeyHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-07T09:46:34.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Core.csproj",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Core.csproj",
               "RelativeDocumentMoniker": "Core\\Core.csproj",
@@ -573,7 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "IDto.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Entities\\IDto.cs",
               "RelativeDocumentMoniker": "Core\\Entities\\IDto.cs",
@@ -582,18 +608,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-06T21:02:40.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "EfEntityRepositoryBase.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "RelativeDocumentMoniker": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "RelativeToolTip": "Core\\DataAccess\\EntityFramework\\EfEntityRepositoryBase.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwC0AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-06T11:42:59.539Z"
             },
             {
               "$type": "Document",
@@ -609,7 +623,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\WebAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "WebAPI\\Properties\\launchSettings.json",
@@ -621,7 +635,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "ProductManager.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Business\\Concrete\\ProductManager.cs",
               "RelativeDocumentMoniker": "Business\\Concrete\\ProductManager.cs",
@@ -633,7 +647,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Entities\\Concrete\\Product.cs",
               "RelativeDocumentMoniker": "Entities\\Concrete\\Product.cs",
@@ -642,18 +656,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-06T10:30:13.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "SuccessResult.cs",
-              "DocumentMoniker": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Results\\SuccessResult.cs",
-              "RelativeDocumentMoniker": "Core\\Utilities\\Results\\SuccessResult.cs",
-              "ToolTip": "C:\\Users\\MyPc\\source\\repos\\NorthwindBackend\\Core\\Utilities\\Results\\SuccessResult.cs",
-              "RelativeToolTip": "Core\\Utilities\\Results\\SuccessResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T10:47:02.978Z"
             }
           ]
         }

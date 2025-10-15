@@ -18,7 +18,6 @@ namespace WebAPI.Controllers
             _productService = productService;
         }
         [HttpGet(template: "getall")]
-        [Authorize(Roles ="Product.List")]
         public IActionResult GetList()
         {
             var result = _productService.GetList();
